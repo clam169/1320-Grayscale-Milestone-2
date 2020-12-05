@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "unzip.js",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "http": "^0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "pngjs": "^3.4.0",
+    "unzipper": "^0.10.5"
+  },
+  "scripts": {
+    "test": "jest --env node"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
